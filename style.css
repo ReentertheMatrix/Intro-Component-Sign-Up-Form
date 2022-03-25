@@ -1,7 +1,7 @@
 @charset "utf-8";
 /*CSS Document */
 body {
-  background: hsl(0, 100%, 74%) url(./images/bg-intro-desktop.png) no-repeat;
+  background: hsl(0, 100%, 74%) url(https://raw.githubusercontent.com/ReentertheMatrix/Intro-Component-Sign-Up-Form/fe908b0e5dd2bfe8aaad2a50af1769c228450393/bg-intro-desktop.png) no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -155,7 +155,7 @@ a {
     flex-direction: column;
   }
   body {
-    background: hsl(0, 100%, 74%) url(./images/bg-intro-mobile.png) no-repeat;
+    background: hsl(0, 100%, 74%) url(https://raw.githubusercontent.com/ReentertheMatrix/Intro-Component-Sign-Up-Form/fe908b0e5dd2bfe8aaad2a50af1769c228450393/bg-intro-mobile.png) no-repeat;
     background-size: cover;
     /* max-width: 100%; */
     /* width:90vw; */
